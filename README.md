@@ -1,8 +1,18 @@
-# React + Vite
+# Todo App using Context Api
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A simple and efficient to-do list application built with React, Vite, Tailwind CSS, and Context API.**
 
-Currently, two official plugins are available:
+## Features✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add➕, delete❌, update ✏️, and complete tasks ☑️** with ease.
+- **Manage your tasks efficiently** with a clean and intuitive interface.
+- **Enjoy a smooth and responsive experience** thanks to Vite's lightning-fast build speeds.
+- **Tailor the look and feel** to your preferences with Tailwind CSS's utility-first classes.
+- **Benefit from a lightweight and maintainable state management solution** with Context API.
+
+## Key Technologies
+
+- **React⚛️:** For building dynamic and interactive user interfaces, ensuring a seamless and engaging user experience.
+- **Vite⚡️:** For lightning-fast development and build speeds, accelerating development workflows and delivering a performant application.
+- **Tailwind CSS:** For utility-first styling and rapid customization, enabling flexible and maintainable visual design without the need for extensive CSS code.
+- **Context API:** For managing global application state, providing a streamlined and efficient way to share data across components, promoting a cohesive and well-structured application architecture.
